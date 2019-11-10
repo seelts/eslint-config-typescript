@@ -9,7 +9,7 @@
   "files": [],
   "devDependencies": {
     "@filtu/prettier-config": "^1.0.1",
-    "prettier": "^1.18.2"
+    "prettier": "^1.19.1"
   },
   "dependencies": {
     "@filtu/eslint-config": "^1.0.0",
